@@ -1,4 +1,4 @@
-# This is a simple shopping cart application built with React Native and Expo. The app allows users to view a list of products, add products to their cart, view the items in their cart, and remove items from their cart. The cart data is stored locally on the device using the FileSystem API.
+# This is a simple shopping cart application built with React Native and Expo. The app allows users to view a list of products, add products to their cart, view the items in their cart, and remove items from their cart. The cart data is stored locally on the device using the AsyncStorage.
 
 # Features
 
@@ -18,7 +18,7 @@ React Navigation: Used to navigate between the HomeScreen,the CartScreen and the
 
 ![HomeScreen](screenshots/HS.jpg)
 
-![Product Details Screen](screenshots/PDS.jpg)
+![ProductDetailsScreen](screenshots/PDS.jpg)
 
 ![CartScreen](screenshots/CS.jpg)
 
